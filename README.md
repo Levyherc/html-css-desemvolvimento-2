@@ -16,4 +16,10 @@
     Nela, você deve focar apenas no conteúdo da página, adicionando textos, cards, imagens, entre outros
 </p>
 
+<h3>
+ Acesse o link para ver o resultado
+</h3>
 
+<p>
+  https://levyherc.github.io/html-css-desemvolvimento-2/
+</p>
